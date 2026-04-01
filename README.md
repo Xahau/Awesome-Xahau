@@ -45,7 +45,7 @@ A curated list of resources, tools, projects, wallets, explorers, and documentat
 
 - [Crossmark](https://crossmark.io/) - Xahau wallet for web browsers. 
 - [DCENT](https://www.dcentwallet.com) — Hardware wallet with robust security technology.
-- [Gemwallet]()
+- [Gemwallet](https://gemwallet.app/) - Web browser wallet for Xahau.
 - [Ledger](https://www.ledger.com/) — Hardware wallet support for XAH via Ledger Nano X, Nano S+, and Flex.
 - [Xaman](https://xaman.app/) — Leading self-custody wallet for Xahau and XRP Ledger (formerly Xumm). Available on iOS and Android.
 - [Xyra](https://www.xyra.now/) - Web browser wallet for Xahau.
@@ -68,6 +68,10 @@ A curated list of resources, tools, projects, wallets, explorers, and documentat
 - [Xahau JS](https://www.npmjs.com/package/xahau) — Official SDK for TypeScript/JavaScript  developers to interact with Xahau.
 
 ## Ecosystem
+
+### APIs
+
+- [Xahau Network Data API](https://data.xahau.network/docs/) - Data API provided by the INFTF.
 
 ### Games
 - [Nonograms.day](https://nonograms.day/) - Play nonograms and get XAH rewards or collaborate adding your creations.
