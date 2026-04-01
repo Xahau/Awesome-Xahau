@@ -45,6 +45,7 @@ A curated list of resources, tools, projects, wallets, explorers, and documentat
 
 - [Crossmark](https://crossmark.io/) - Xahau wallet for web browsers. 
 - [DCENT](https://www.dcentwallet.com) — Hardware wallet with robust security technology.
+- [Gemwallet]()
 - [Ledger](https://www.ledger.com/) — Hardware wallet support for XAH via Ledger Nano X, Nano S+, and Flex.
 - [Xaman](https://xaman.app/) — Leading self-custody wallet for Xahau and XRP Ledger (formerly Xumm). Available on iOS and Android.
 - [Xyra](https://www.xyra.now/) - Web browser wallet for Xahau.
@@ -53,10 +54,11 @@ A curated list of resources, tools, projects, wallets, explorers, and documentat
 
 - [Hex Visualizer](https://transia-rnd.github.io/xrpl-hex-visualizer/) - Paste a hex string below to convert it in various types.
 - [Hook ABI Conversion Helper](https://xahau.xrplwin.com/tools/hook/abi-conversion-helper) - Enter a HookState key and value pair, or HookParameter pair to convert to ABI format. You can also enter just an Invoke Blob in the key field to decode it.
+- [Hook Tx Builder](https://tx-builder.xahau.tools/) - Paste a json Xahau tx and convert it to a C hook binary tx.
 - [HookOn Calculator](https://richardah.github.io/xrpl-hookon-calculator/) - Generate HookOn values for your hooks.
 - [Hooks Builder IDE](https://builder.xahau.network/) — Browser-based IDE for crafting, testing, debugging, and deploying Hooks on testnet.
 - [Hooks Services](https://hooks.services/) - Several tools for Hooks building
-- [Hooks Toolkit](https://hooks-toolkit.com/) — TypeScript/JavaScript and Python library for interacting with Hooks on Xahau.
+- [Hooks Toolkit](https://hooks-toolkit.com/) — C/JS library for interacting with Hooks on Xahau.
 - [Testnet Faucet](https://xahau-test.net/) — Generate accounts and fund them on Xahau Testnet.
 - [Time Visualizer](https://transia-rnd.github.io/xrpl-time-visualizer/) - Paste a date string, datetimestamp or ripple timestamp below to convert it in various types.
 
@@ -79,9 +81,14 @@ A curated list of resources, tools, projects, wallets, explorers, and documentat
 
 - [Dhali.io](https://dhali.io/) - Web3 API Monetization service for Xahau.
 - [Evergram](https://evergram.app/) - Protect your conversations with ledger-verified identity. No passwords to forget. No gas fees to pay. Just instant, private connection.
+- [One Xahau](https://onexah.io/) - Xahau Info Dashboard
+- [Unhosted.Exchange](https://unhosted.exchange/xahau?base=XAH&quote=USD_rhub8VRN55s94qWKDv6jmDy1pUykJzF3wq) - Xaman's DEX frontend for Xahau and other chains.
 - [Voucher](https://xumm.app/detect/xapp:xaman.voucher) - XAH Voucher generator
 - [Xahau Docproof](https://xahaudocproof.com/) - Transform document workflows with cryptographically sealed, instantly verifiable digital signatures powered by cutting-edge blockchain technology.
+- [Xahau Journal](https://github.com/Cbot-XRPL/Xahau-Journal) A Xahau cheatsheet with websites, tools and projects.
+- [Xahau Price Ticker](https://chromewebstore.google.com/detail/ekiserrepes-xahau-price-t/mpaopambomlinjljaoflpljgmgplpbeb) - A XAH price ticker for Google Chrome with useful links
 - [xamini](https://xamini.io/) - Xamini empowers the Xahau ecosystem through strategic community initiatives, development grants, and innovative governance solutions.
+- [xMagnetic](https://xmagnetic.org/?network=xahau) - Xahau DEX Frontend service
 - [xMerch](https://www.xmerch.app/) - Buy & Sell Real‑World Products on Xahau, instantly
 - [xpert.page](https://xpert.page/) - Showcase your profile, receive support, and connect with others in one powerful platform.
 
