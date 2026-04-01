@@ -1,8 +1,6 @@
 # Awesome Xahau
 
-> A curated list of resources, tools, projects, wallets, explorers, and documentation for the [Xahau](https://xahau.network/) blockchain.
-
----
+A curated list of resources, tools, projects, wallets, explorers, and documentation for the [Xahau](https://xahau.network/) blockchain.
 
 ## Contents
 
@@ -14,8 +12,6 @@
 - [Libraries & SDKs](#libraries--sdks)
 - [Ecosystem](#ecosystem)
 - [Contributing](#contributing)
-
----
 
 ## Official Resources
 
