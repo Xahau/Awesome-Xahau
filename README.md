@@ -61,6 +61,7 @@ A curated list of resources, tools, projects, wallets, explorers, and documentat
 - [Hooks Toolkit](https://hooks-toolkit.com/) — C/JS library for interacting with Hooks on Xahau.
 - [Testnet Faucet](https://xahau-test.net/) — Generate accounts and fund them on Xahau Testnet.
 - [Time Visualizer](https://transia-rnd.github.io/xrpl-time-visualizer/) - Paste a date string, datetimestamp or ripple timestamp below to convert it in various types.
+- [XAHL-Node](https://github.com/gadget78/xahl-node) - Xahau submission node installation, utilizing nginx to give webserver and endpoints, with lets encrypt TLS certificate.
 
 ## Libraries & SDKs
 
@@ -79,6 +80,7 @@ A curated list of resources, tools, projects, wallets, explorers, and documentat
 
 ### Projects / Services
 
+- [DailiPay](https://www.dallipay.com/) - Send and receive global payments from your accounting software 24/7/365 within seconds.
 - [Dhali.io](https://dhali.io/) - Web3 API Monetization service for Xahau.
 - [Evergram](https://evergram.app/) - Protect your conversations with ledger-verified identity. No passwords to forget. No gas fees to pay. Just instant, private connection.
 - [One Xahau](https://onexah.io/) - Xahau Info Dashboard
