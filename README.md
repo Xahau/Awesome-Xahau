@@ -1,4 +1,4 @@
-# Awesome Xahau
+<img width="2136" height="630" alt="carbon" src="https://github.com/user-attachments/assets/09bbec98-08f0-4155-ace5-5d9bc53fd382" />
 
 A curated list of resources, tools, projects, wallets, explorers, and documentation for the [Xahau](https://xahau.network/) blockchain.
 
