@@ -83,12 +83,15 @@ A curated list of resources, tools, projects, wallets, explorers, and documentat
 - [DailiPay](https://www.dallipay.com/) - Send and receive global payments from your accounting software 24/7/365 within seconds.
 - [Dhali.io](https://dhali.io/) - Web3 API Monetization service for Xahau.
 - [Evergram](https://evergram.app/) - Protect your conversations with ledger-verified identity. No passwords to forget. No gas fees to pay. Just instant, private connection.
+- [Hook Store](https://hookstore.xahau.network/) - Discover and install hooks with reproducible builds. Trusted by developers, secured by design.
 - [One Xahau](https://onexah.io/) - Xahau Info Dashboard
 - [Unhosted.Exchange](https://unhosted.exchange/xahau?base=XAH&quote=USD_rhub8VRN55s94qWKDv6jmDy1pUykJzF3wq) - Xaman's DEX frontend for Xahau and other chains.
 - [Voucher](https://xumm.app/detect/xapp:xaman.voucher) - XAH Voucher generator
+- [XAH Teleport](https://help.xaman.app/app/all-about-xapps/xahau-xapps/xah-teleport) - The XAH Teleport xApp allows you to move XAH tokens (issued by GateHub) from your XRP Ledger account over to your Xahau account on the Xahau network and vice versa.
 - [Xahau Docproof](https://xahaudocproof.com/) - Transform document workflows with cryptographically sealed, instantly verifiable digital signatures powered by cutting-edge blockchain technology.
-- [Xahau Journal](https://github.com/Cbot-XRPL/Xahau-Journal) A Xahau cheatsheet with websites, tools and projects.
+- [Xahau Journal](https://github.com/Cbot-XRPL/Xahau-Journal) - A Xahau cheatsheet with websites, tools and projects.
 - [Xahau Price Ticker](https://chromewebstore.google.com/detail/ekiserrepes-xahau-price-t/mpaopambomlinjljaoflpljgmgplpbeb) - A XAH price ticker for Google Chrome with useful links
+- [Xahau Services](https://xahau.services/) - A compilation of tools for Xahau.
 - [xamini](https://xamini.io/) - Xamini empowers the Xahau ecosystem through strategic community initiatives, development grants, and innovative governance solutions.
 - [xMagnetic](https://xmagnetic.org/?network=xahau) - Xahau DEX Frontend service
 - [xMerch](https://www.xmerch.app/) - Buy & Sell Real‑World Products on Xahau, instantly
