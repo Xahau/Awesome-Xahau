@@ -72,6 +72,7 @@ A curated list of resources, tools, projects, wallets, explorers, and documentat
 ### APIs
 
 - [Xahau Network Data API](https://data.xahau.network/docs/) - Data API provided by the INFTF.
+- [Xahau Services UriToken API](https://api.xahaudata.com/docs/static/index.html) - UriToken API service.
 
 ### Games
 - [Nonograms.day](https://nonograms.day/) - Play nonograms and get XAH rewards or collaborate adding your creations.
