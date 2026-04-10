@@ -10,6 +10,7 @@ A curated list of resources, tools, projects, wallets, explorers, and documentat
 - [Wallets](#wallets)
 - [Developer Tools](#developer-tools)
 - [Libraries & SDKs](#libraries--sdks)
+- [Courses](#courses)
 - [Ecosystem](#ecosystem)
 - [Contributing](#contributing)
 
@@ -66,6 +67,9 @@ A curated list of resources, tools, projects, wallets, explorers, and documentat
 ## Libraries & SDKs
 
 - [Xahau JS](https://www.npmjs.com/package/xahau) — Official SDK for TypeScript/JavaScript  developers to interact with Xahau.
+
+## Courses
+- [Learn Xahau](https://learnxahau.inftf.org/) - Full Programming Course, includes theory and full scripts ready to run.
 
 ## Ecosystem
 
