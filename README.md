@@ -53,6 +53,7 @@ A curated list of resources, tools, projects, wallets, explorers, and documentat
 
 ## Developer Tools
 
+- [Binary Visualizer](https://binary-visualizer.xahau.tools/) - Paste your Xahau related HEX/json/base64 and decode the value.
 - [Hex Visualizer](https://transia-rnd.github.io/xrpl-hex-visualizer/) - Paste a hex string below to convert it in various types.
 - [Hook ABI Conversion Helper](https://xahau.xrplwin.com/tools/hook/abi-conversion-helper) - Enter a HookState key and value pair, or HookParameter pair to convert to ABI format. You can also enter just an Invoke Blob in the key field to decode it.
 - [Hook Tx Builder](https://tx-builder.xahau.tools/) - Paste a json Xahau tx and convert it to a C hook binary tx.
