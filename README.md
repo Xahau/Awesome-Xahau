@@ -54,6 +54,7 @@ A curated list of resources, tools, projects, wallets, explorers, and documentat
 ## Developer Tools
 
 - [Binary Visualizer](https://binary-visualizer.xahau.tools/) - Paste your Xahau related HEX/json/base64 and decode the value.
+- [evernode-mcp](https://github.com/Hugegreencandle/evernode-mcp) — MCP to scaffold, lint, cost-estimate, and deploy HotPocket dApps on Evernode, with a HotPocket determinism linter.
 - [Hex Visualizer](https://transia-rnd.github.io/xrpl-hex-visualizer/) - Paste a hex string below to convert it in various types.
 - [Hook ABI Conversion Helper](https://xahau.xrplwin.com/tools/hook/abi-conversion-helper) - Enter a HookState key and value pair, or HookParameter pair to convert to ABI format. You can also enter just an Invoke Blob in the key field to decode it.
 - [Hook Tx Builder](https://tx-builder.xahau.tools/) - Paste a json Xahau tx and convert it to a C hook binary tx.
@@ -63,6 +64,9 @@ A curated list of resources, tools, projects, wallets, explorers, and documentat
 - [Hooks Toolkit](https://hooks-toolkit.com/) — C/JS library for interacting with Hooks on Xahau.
 - [Testnet Faucet](https://xahau-test.net/) — Generate accounts and fund them on Xahau Testnet.
 - [Time Visualizer](https://transia-rnd.github.io/xrpl-time-visualizer/) - Paste a date string, datetimestamp or ripple timestamp below to convert it in various types.
+- [xahau-mcp](https://github.com/Hugegreencandle/xahau-mcp) — MCP that simulates an unsigned Xahau transaction against live ledger state, running its Hooks as real WASM to predict accept/rollback before you sign.
+- [xahc](https://github.com/Hugegreencandle/xahc) — CLI to build, lint, and verify C Hooks, with a differential check against the simulator VM.
+- [xahc-prover](https://github.com/Hugegreencandle/xahc-prover) — Formal verification for Hooks: symbolically proves a Hook obeys safety invariants for all inputs, or returns a counterexample.
 - [XAHL-Node](https://github.com/gadget78/xahl-node) - Xahau submission node installation, utilizing nginx to give webserver and endpoints, with lets encrypt TLS certificate.
 
 ## Libraries & SDKs
