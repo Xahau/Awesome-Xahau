@@ -10,6 +10,7 @@ A curated list of resources, tools, projects, wallets, explorers, and documentat
 - [Wallets](#wallets)
 - [Developer Tools](#developer-tools)
 - [Libraries & SDKs](#libraries--sdks)
+- [Evernode](#evernode)
 - [Courses](#courses)
 - [Ecosystem](#ecosystem)
 - [Contributing](#contributing)
@@ -72,6 +73,16 @@ A curated list of resources, tools, projects, wallets, explorers, and documentat
 ## Libraries & SDKs
 
 - [Xahau JS](https://www.npmjs.com/package/xahau) — Official SDK for TypeScript/JavaScript  developers to interact with Xahau.
+
+## Evernode
+
+Evernode is the decentralized dApp-hosting layer settled and governed via Xahau, where HotPocket smart contracts run on a global marketplace of independent hosts.
+
+- [Evernode](https://www.evernode.org/) — Official website. Decentralized marketplace for hosting dApps (HotPocket smart contracts) via the Xahau Network.
+- [Evernode Developers](https://www.evernode.org/developers) — Developer hub explaining how Evernode uses a Hook-enabled Xahau account as its decentralized host registry.
+- [Evernode Docs](https://docs.evernode.org/) — Official documentation: platform overview, HotPocket SDK, and the Evernode developer kit.
+- [Evernode SDK](https://github.com/EvernodeXRPL/evernode-sdk) — HotPocket and Evernode developer kits, concepts, tutorials, and examples.
+- [EvernodeXRPL (GitHub)](https://github.com/EvernodeXRPL) — Official Evernode repositories.
 
 ## Courses
 - [Learn Xahau](https://learnxahau.inftf.org/) - Full Programming Course, includes theory and full scripts ready to run.
